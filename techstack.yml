@@ -2,7 +2,7 @@ repo_name: jadenblack/charts
 report_id: 311b0a7ac5801522415c499f65b12610
 version: 0.1
 repo_type: Public
-timestamp: '2023-12-20T12:43:04+00:00'
+timestamp: '2024-01-05T08:23:14+00:00'
 requested_by: bitnami-bot
 provider: github
 branch: main
@@ -18,6 +18,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1005/O6AczwfV_400x400.png
+  detection_source_url: https://github.com/jadenblack/charts
   detection_source: Repo Metadata
 - name: JavaScript
   description: Lightweight, interpreted, object-oriented language with first-class
@@ -28,6 +29,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/jadenblack/charts
   detection_source: Repo Metadata
 - name: Python
   description: A clear and powerful object-oriented programming language, comparable
@@ -38,6 +40,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/jadenblack/charts
   detection_source: Repo Metadata
 - name: Smarty
   description: Template engine for PHP
@@ -47,6 +50,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Templating Languages & Extensions
   image_url: https://img.stackshare.io/service/3693/smarty.png
+  detection_source_url: https://github.com/jadenblack/charts
   detection_source: Repo Metadata
 - name: Protobuf
   description: Google's data interchange format
@@ -56,6 +60,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Serialization Frameworks
   image_url: https://img.stackshare.io/service/4393/ma2jqJKH_400x400.png
+  detection_source_url: https://github.com/jadenblack/charts/blob/main/.vib/cassandra/ginkgo/go.mod
   detection_source: ".vib/cassandra/ginkgo/go.mod"
   last_updated_by: Javier J. Salmerón-García
   last_updated_on: 2023-08-28 16:50:09.000000000 Z
@@ -81,6 +86,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/jadenblack/charts
   detection_source: Repo Metadata
 - name: GitHub Actions
   description: Automate your workflow from idea to production
@@ -90,6 +96,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Continuous Integration
   image_url: https://img.stackshare.io/service/11563/actions.png
+  detection_source_url: https://github.com/jadenblack/charts/blob/main/.github/workflows/assign-asset-label.yml
   detection_source: ".github/workflows/assign-asset-label.yml"
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-11-20 10:31:15.000000000 Z
@@ -117,6 +124,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Container Tools
   image_url: https://img.stackshare.io/service/1885/21_d3cvM.png
+  detection_source_url: https://github.com/jadenblack/charts/blob/main/.vib/cassandra/ginkgo/go.mod
   detection_source: ".vib/cassandra/ginkgo/go.mod"
   last_updated_by: Javier J. Salmerón-García
   last_updated_on: 2023-08-28 16:50:09.000000000 Z
@@ -129,6 +137,7 @@ tools:
   category: Application Utilities
   sub_category: Data Science Notebooks
   image_url: https://img.stackshare.io/service/4190/fGBUdNf__400x400.jpg
+  detection_source_url: https://github.com/jadenblack/charts
   detection_source: Repo Metadata
 - name: LangChain
   description: Build AI apps with LLMs through composability
@@ -138,6 +147,7 @@ tools:
   category: Communications
   sub_category: Large Language Model Tools
   image_url: https://img.stackshare.io/service/48790/default_5b6c6b73f1ff3775c85d2a1ba954cb87e30cbf13.jpg
+  detection_source_url: https://github.com/jadenblack/charts/blob/main/.vib/influxdb/cypress/cypress/fixtures/sample_data/glucose_levels.txt
   detection_source: ".vib/influxdb/cypress/cypress/fixtures/sample_data/glucose_levels.txt"
   last_updated_by: Jose Antonio Carmona
   last_updated_on: 2022-08-23 18:12:07.000000000 Z
@@ -150,6 +160,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source_url: https://github.com/jadenblack/charts
   detection_source: Repo Metadata
 - name: adal
   description: This package implements an HTTP request pipeline suitable for use across
@@ -190,6 +201,7 @@ tools:
   category: Libraries
   sub_category: Go Modules Packages
   image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: https://github.com/jadenblack/charts/blob/main/.vib/cassandra/ginkgo/go.mod
   detection_source: ".vib/cassandra/ginkgo/go.mod"
   last_updated_by: Javier J. Salmerón-García
   last_updated_on: 2023-08-28 16:50:09.000000000 Z
@@ -299,6 +311,7 @@ tools:
   category: Libraries
   sub_category: Go Modules Packages
   image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: https://github.com/jadenblack/charts/blob/main/.vib/cert-manager/ginkgo/go.mod
   detection_source: ".vib/cert-manager/ginkgo/go.mod"
   last_updated_by: Jose Antonio Carmona
   last_updated_on: 2022-10-31 13:31:31.000000000 Z
@@ -538,6 +551,7 @@ tools:
   category: Libraries
   sub_category: Go Modules Packages
   image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: https://github.com/jadenblack/charts/blob/main/.vib/cassandra/ginkgo/go.mod
   detection_source: ".vib/cassandra/ginkgo/go.mod"
   last_updated_by: Javier J. Salmerón-García
   last_updated_on: 2023-08-28 16:50:09.000000000 Z
